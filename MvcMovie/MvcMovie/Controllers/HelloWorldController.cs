@@ -3,9 +3,11 @@ using System.Web.Mvc;
 
 namespace MvcMovie.Controllers
 {
+
     public class HelloWorldController : Controller
     {
-        //
+        // Added this comment while practicing branching, pushing, and pullling
+        // using the GitHub extension for VS
         // GET: HelloWorld
 
         public ActionResult Index()
