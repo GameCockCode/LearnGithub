@@ -8,6 +8,8 @@ namespace MvcMovie.Controllers
     {
         // Added this comment while practicing branching, pushing, and pullling
         // using the GitHub extension for VS
+        // Again
+        // one more time
         // GET: HelloWorld
 
         public ActionResult Index()
